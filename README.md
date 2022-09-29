@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @erixAlexander Erix Alexander Gutierrez Sequera
 - 👀 I’m interested in Full Stack development
-- 🌱 I’m currently learning React, Express, MongoDB, Node
+- 🌱 I’m currently making projects with React, Express, MongoDB, Node
 - 💞️ I’m looking to collaborate on Backend Projects using Node and Frontend Projects Using React.
 - 📫 How to reach me erix.gutierrez@gmail.com
 
