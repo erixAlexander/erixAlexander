@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on Backend Projects using Node and Frontend Projects Using React.
 - 📫 How to reach me erix.gutierrez@gmail.com
 
-I have a few small projects uploaded to this github account I also love animals so I'm workin on a web app called PetMtch (name in progress) you can see the advances I have made in this URL https://petmatchlove.netlify.app/ hopefully it'll be finished soon!
+You can check all of my projects uploaded to this github account.
 
 <!---
 erixAlexander/erixAlexander is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
