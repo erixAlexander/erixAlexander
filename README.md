@@ -7,9 +7,9 @@ Welcome to my GitHub profile! I'm passionate about Full Stack development and en
 - 💼 I'm open to collaboration on exciting projects, particularly those involving Backend development with Node.js and Frontend development with React.
 
 ## 🔧 Technologies & Tools
-- Frontend: React, HTML, CSS, JavaScript
-- Backend: Node.js, Express
-- Database: MongoDB
+- Frontend: React, React Native, Angular, HTML, CSS, JavaScript
+- Backend: Node.js, Express, SocketIo
+- Database: MongoDB, PostgreSQL, and others
 - Version Control: Git
 - Other: RESTful APIs, JSON
 
